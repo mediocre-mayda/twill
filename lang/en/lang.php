@@ -324,4 +324,8 @@ return [
         'user-image' => 'صورة',
         'users' => 'المستخدمون',
     ],
+    'models' => [
+        'Resolutions' => 'قرارات',
+        'News' => 'أخبار',
+    ],
 ];
